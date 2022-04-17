@@ -1,30 +1,18 @@
-# music
+##前后端分离的个人音乐网站，包含网站的后台管理系统，欢迎各位光临
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
+## 下面是后端项目启动
+# 依赖下载
 npm install
 
-# serve with hot reload at localhost:8080
+# localhost:8081本机地址热加载（8081是后台管理系统，8082是网站前台）
 npm run dev
 
-# build for production with minification
+# 项目快速编译
 npm run build
 
-# build for production and view the bundle analyzer report
+# 项目编译报告查看
 npm run build --report
 
-# run unit tests
+# 运行单元测试
 npm run unit
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
