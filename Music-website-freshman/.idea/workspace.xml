@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f610ddaf-3aed-4394-8c47-01f2630fb0b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Music-website-freshman.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/api/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/album-content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/comment.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/content-list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/login-in.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/login-logo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/lyric.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/my-music.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/play-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/scroll-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/search-song-Lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/search-songs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/setting.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/sign-up.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/singer-album.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/singer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/song-audio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/song-list-album.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/song-list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/swiper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/the-aside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/the-footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/the-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/upload.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/var.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/data/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/data/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/data/singer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/data/songList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/data/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/swiper/blur-1851426_640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/swiper/boy-984293_640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/swiper/concert-768722_640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/swiper/ipad-605439_640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/swiper/microphone-1209816_640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/swiper/music-notes-3221097_640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/swiper/piano-1655558_640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/swiper/turntable-1337986_640.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/tubiao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/img/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/js/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/js/iconfont1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/js/iconfont2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/assets/js/iconfont3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/AlbumContent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/Comment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/ContentList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/Info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/LoginLogo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/PlayBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/ScrollTop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/SongAudio.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/Swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/TheAside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/TheFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/TheHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/Upload.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/search/SearchSongLists.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/components/search/SearchSongs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/mixins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/LoginIn.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/Lyric.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/MyMusic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/Setting.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/SignUp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/Singer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/SingerAlbum.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/SongList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/pages/SongListAlbum.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/store/configure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/store/song.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/src/store/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/static/img/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/test/unit/jest.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/test/unit/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-client/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/api/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/assets/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/assets/img/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/assets/js/bus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/assets/js/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/components/SongAudio.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/components/TheAside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/components/TheHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/mixins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/CollectPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/CommentPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/ConsumerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/InfoPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/ListSongPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/SingerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/SongListPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/pages/SongPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/static/img/yin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/static/vuetable.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/test/unit/jest.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/test/unit/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-manage/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f5ff1038-b790-4c7e-9c15-53ad670e994a" />
+  </component>
+  <component name="ProjectId" id="27sOutlCukNbZ1gH4BggH3cJn1A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f610ddaf-3aed-4394-8c47-01f2630fb0b5" name="Default Changelist" comment="" />
+      <created>1650105553110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650105553110</updated>
+      <workItem from="1650105554315" duration="15000" />
+      <workItem from="1650107316230" duration="1265000" />
+      <workItem from="1650172989744" duration="2080000" />
+      <workItem from="1650176719295" duration="247000" />
+      <workItem from="1650178960105" duration="586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
